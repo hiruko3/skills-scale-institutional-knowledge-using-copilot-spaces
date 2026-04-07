@@ -33,7 +33,7 @@ OctoAcme projects follow a structured lifecycle to ensure alignment, quality, an
 
 ## Process Documentation
 
-Navigate the following guides to understand OctoAcme's project management processes:
+Navigate the following guides to understand OctoAcme's project management processes: 
 
 ### Getting Started
 - [Project Management Overview](octoacme-project-management-overview.md) — Introduction to OctoAcme's approach, roles, and key artifacts
@@ -67,5 +67,5 @@ For questions about these processes, to suggest improvements, or to contribute u
 
 ---
 
-**Last Updated**: 2026-04-07  
+**Last Updated**: 2026-04-08  
 Use these artifacts to support onboarding, accelerate project execution, and drive continuous improvement across OctoAcme.
